@@ -1,10 +1,10 @@
-"Report Written:","Friday, May 24, 2019"
+"Report Written:","Monday, May 27, 2019"
 "Project Path:","C:\design spark work space\Forå„îy\SympleServoBoard\SympleServoBord.prj"
 "Design Path:","C:\design spark work space\Forå„îy\SympleServoBoard\SympleServoBord.pcb"
 "Design Title:",
 "Created:","2019/04/21 18:05:51"
-"Last Saved:","2019/05/23 21:19:02"
-"Editing Time:","6148 min"
+"Last Saved:","2019/05/27 17:55:25"
+"Editing Time:","10398 min"
 "Units:","mm (precision 2)"
 
 Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
@@ -12,10 +12,12 @@ Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
 
 
 "Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
+"CC1","1","1EUTCX101M","","USER","","","","",""
+"IC2","1","AP7333-33SAG-7","","SOT96P240X135-3N","Diodes Inc.","AP7333-33SAG-7","7513102P","","LDO Regulator Pos 3.3V 0.3A 3Pin SOT23 Diodes Inc AP7333 AP7333-33SAG-7, Single Linear Voltage Regulator, 300mA 3.3 V, +/-2%, 3-Pin SOT-23"
 "2SLiPo","1","B2P-VH(LF)(SN)","","SHDR2W114P0X396_1X2_786X850X94","JST (JAPAN SOLDERLESS TERMINALS)","B2P-VH(LF)(SN)","1724971","","connector,multipole PCB use,B2P-VH,VH se JST VH Series, 3.96mm Pitch 2 Way 1 Row Straight PCB Header, Solder Termination, 10A"
 "CONN7","1","BOX-10P_lay","","USER","","","","",""
 "ST-Link","1","BOX-20P","","USER","","","","",""
-"C4","1","C-chip","","1608","","","","",""
+"C4","1","C-chip","0.1u","1608","","","","",""
 "C3","1","C-chip","0.1u","1608","","","","",""
 "C1","1","C-chip","0.1u","1608","","","","",""
 "C2","1","C-chip","0.1u","1608","","","","",""
@@ -28,7 +30,6 @@ Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
 "POWER","1","FA1111C-TR","","LEDC1608X80N","Stanley Electric","FA1111C-TR","7002069P","","ChipLED 0603 Orange 1.6x0.8x0.7mm Stanley Electric FA1111C-TR, 1111C Series Orange LED, 605 nm 1608 (0603), Rectangle Lens SMD package"
 "7V","1","FA1111C-TR","","LEDC1608X80N","Stanley Electric","FA1111C-TR","7002069P","","ChipLED 0603 Orange 1.6x0.8x0.7mm Stanley Electric FA1111C-TR, 1111C Series Orange LED, 605 nm 1608 (0603), Rectangle Lens SMD package"
 "IC14","1","MCP2551-I_SN","","SOIC127P600X175-8N","Microchip","MCP2551-I/SN","2509530197","","High Speed CAN Transceiver,MCP2551-I/SN"
-"C8","1","NitikonWT","","UWT(8X10)","Nichicon","UWT1E221MNL1GS","8440730P","","NICHICON - UWT1E221MNL1GS - ALUMINUM ELECTROLYTIC CAPACITOR 220UF 25V 20%, SMD"
 "1","1","pinheader-3P_L","","USER","","","","",""
 "2","1","pinheader-3P_L","","USER","","","","",""
 "3","1","pinheader-3P_L","","USER","","","","",""
@@ -45,4 +46,3 @@ Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
 "R5","1","R-1608","150","1608","","","","",""
 "R2","1","R-1608","150","1608","","","","",""
 "IC1","1","STM32F303K8T6","","QFP80P900X900X160-32N","STMicroelectronics","STM32F303K8T6","","","ARM Microcontrollers - MCU 16/32-BITS MICROS"
-"IC15","1","XC6216D332PR-G","","XC6216D332PRG","Torex","XC6216D332PR-G","","","LDO Voltage Regulators 28V Input Voltage Regulator"
